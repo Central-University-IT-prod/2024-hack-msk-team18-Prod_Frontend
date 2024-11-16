@@ -1,0 +1,5 @@
+.dialog {
+	position: absolute;
+	background: transparent;
+	@apply bg-[#fff] rounded-lg border-green text-asphalt w-64 h-24 top-10
+}
